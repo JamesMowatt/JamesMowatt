@@ -5,4 +5,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=JamesMowatt&theme=blue-green)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMowatt&theme=blue-green)
